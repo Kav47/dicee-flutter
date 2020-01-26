@@ -23,3 +23,9 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
+
+## Notes
+- To wrap another widget around, click "Flutter Outline" and right click on the specified widget select the option we need
+- or simply select the icons on the top of "Flutter Outline"
+- or (Option + Enter) on mac
+- To delete, select the widget and click on the bulb icon and select the option from the drop-down
